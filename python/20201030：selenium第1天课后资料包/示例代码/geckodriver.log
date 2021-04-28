@@ -1,0 +1,26 @@
+1604027933084	geckodriver	INFO	Listening on 127.0.0.1:33214
+1604027936090	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDzhYld"
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604027941679	Marionette	INFO	Listening on port 33222
+1604027942111	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript warning: http://39.106.69.242/thinksns/public/js/jquery.js, line 19: unreachable code after return statement
+1604027957696	Marionette	INFO	Stopped listening on port 33222
+1604027959137	geckodriver	INFO	Listening on 127.0.0.1:33273
+1604027962145	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilevhYahU"
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+[GFX1-]: PossiblyBrokenSurfaceSharing_UnexpectedAMDGPU
+1604027965335	Marionette	INFO	Listening on port 33281
+1604027965468	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://39.106.69.242/thinksns/public/js/jquery.js, line 19: unreachable code after return statement
+1604027978655	Marionette	INFO	Stopped listening on port 33281

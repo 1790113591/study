@@ -1,0 +1,9 @@
+£¨1£©Chrome£¨ÍÆ¼ö£©
+	http://chromedriver.storage.googleapis.com/index.html
+	http://npm.taobao.org/mirrors/chromedriver
+ 
+£¨2£©Firefox
+	https://github.com/mozilla/geckodriver/releases/
+
+£¨3£©IE
+	http://selenium-release.storage.googleapis.com/index.html

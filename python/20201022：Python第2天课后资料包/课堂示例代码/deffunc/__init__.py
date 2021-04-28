@@ -1,0 +1,1 @@
+from .demo10_function_define import say_love

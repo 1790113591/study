@@ -1,0 +1,27 @@
+<films>
+    <date>2020年10月30日</date>
+    <count>3</count>
+    <film fno="M181471284124">
+        <title>八百</title>
+        <director>管虎</director>
+        <actors>
+            <actor>张译</actor>
+            <actor>XXX</actor>
+        </actors>
+        <times>2小时27分</times>
+        <price>55</price>
+    </film>
+    <film fno="M1814712982674">
+        <title>我和我的家乡</title>
+        <director>张艺谋</director>
+        <actors>
+            <actor>黄渤</actor>
+            <actor>葛优</actor>
+        </actors>
+        <times>2小时03分</times>
+        <price>60</price>
+    </film>
+</films>
+
+路径：/films/film/actors/actor[1]
+把在XML文件中根据一种路径来定位元素的表达式叫做XML PATH，简称为XPATH
